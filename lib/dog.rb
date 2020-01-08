@@ -15,4 +15,3 @@ class Dog(name)
         puts "woof!"
     end
 end
-
